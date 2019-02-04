@@ -1,11 +1,16 @@
-Commitments and Summary:
+# Commitments and Summary
 
 This is the 3rd file for submission. Overall, everyone has suggested some entity classes and relationships and participated in discussions to choose the top 20 most important. 
 
-Our final version of entity classes and relationships (1st file): Insert address here.
-Our final version of rationale and justification (2nd file): Insert address here.
-Our meeting notes: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424011, https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424012, https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424013. 
-Our Wiki repository for drafts: https://github.com/IS561/MotorPool/wiki. 
+## Adresses of Our Work
+- Our final version of entity classes and relationships (1st file): https://github.com/IS561/MotorPool/blob/master/Group-2-Entity-Classes-and-Relationships.md
+- Our final version of rationale and justification (2nd file): https://github.com/IS561/MotorPool/blob/master/Group-2-Rationale.md
+- Our final version of commitments and summary (3rd file, i.e. this file): https://github.com/IS561/MotorPool/blob/master/Group-2-Commitments-and-Summary.md
+- Our meeting notes: 
+	- Note 1: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424011
+	- Note 2: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424012
+	- Note 3: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424013. 
+- Our Wiki repository for drafts: https://github.com/IS561/MotorPool/wiki. 
 
 Here are other detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
 
