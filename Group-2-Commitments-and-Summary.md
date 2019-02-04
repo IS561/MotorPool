@@ -9,8 +9,8 @@ This is the 3rd file for submission. Overall, everyone has suggested some entity
 - Our meeting notes: 
 	- Note 1: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424011
 	- Note 2: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424012
-	- Note 3: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424013. 
-- Our Wiki repository for drafts: https://github.com/IS561/MotorPool/wiki. 
+	- Note 3: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424013 
+- Our Wiki repository for drafts: https://github.com/IS561/MotorPool/wiki
 
 Here are other detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
 
