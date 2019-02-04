@@ -1,6 +1,6 @@
 # Commitments and Summary
 
-This is the 3rd file for submission. Overall, everyone has suggested some entity classes and relationships and participated in discussions to choose the top 20 most important. 
+This is the 3rd file for submission. Addresses of all our work and summary of contributions of each group member are contained here. Overall, everyone has suggested some entity classes and relationships and participated in discussions to choose the top 20 most important. 
 
 ## Adresses of Our Work
 - Our final version of entity classes and relationships (1st file): https://github.com/IS561/MotorPool/blob/master/Group-2-Entity-Classes-and-Relationships.md
@@ -12,6 +12,7 @@ This is the 3rd file for submission. Overall, everyone has suggested some entity
 	- Note 3: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424013 
 - Our Wiki repository for drafts: https://github.com/IS561/MotorPool/wiki
 
+## Detailed Commitments of Each Member
 Here are other detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
 
 <table>
@@ -182,7 +183,7 @@ Qiyuan Xiao: Discussed with TA during office hour; Summarized entity classes in 
 
 Yifei Li: Discussed with TA during office hour; Revised entity classes and relationships of 1st file; Participated in writing rationale and justification (2nd file); Wrote the 1st and 2nd meeting notes; Reviewed all files.
 
-Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Summarized commitments of 3rd file; Reviewed all files.
+Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Wrote commitments and summary of 3rd file; Reviewed all files; Helped encoding files.
 
 Yunya Gu: Summarized relationships in 1st file; Wrote the 3rd meeting note.
 
