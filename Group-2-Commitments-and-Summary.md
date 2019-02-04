@@ -1,0 +1,192 @@
+Commitments and Summary:
+
+This is the 3rd file for submission. Overall, everyone has suggested some entity classes and relationships and participated in discussions to choose the top 20 most important. 
+
+Our final version of entity classes and relationships (1st file): Insert address here.
+Our final version of rationale and justification (2nd file): Insert address here.
+Our meeting notes: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424011, https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424012, https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424013. 
+Our Wiki repository for drafts: https://github.com/IS561/MotorPool/wiki. 
+
+Here are other detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
+
+<table>
+     <tr>
+        <th>Work/Member</th>
+        <td>Harshitha Ravindra</th>
+        <td>Mihir Joshi</td>
+        <td>Qiyuan Xiao</td>
+        <td>Yifei Li</td>
+        <td>Yixin Zhang</td>
+        <td>Yunya Gu</td>
+     </tr>
+     </tr>
+        <td>Harshitha Ravindra</td>
+        <td>Mihir Joshi</td>
+        <td>Qiyuan Xiao</td>
+        <td>Yifei Li</td>
+        <td>Yixin Zhang</td>
+        <td>Yunya Gu</td>
+     <tr>
+</table>
+
+Work\Member
+Harshitha Ravindra
+Mihir Joshi
+Qiyuan Xiao
+Yifei Li
+Yixin Zhang
+Yunya Gu
+Propose entity classes and relationships
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Consult TA
+
+
+
+
+Yes
+Yes
+
+
+
+
+Entity classes and relationships summary (1st file)
+
+
+
+
+Yes
+Yes
+
+
+Yes
+Rationale and justification (2nd file)
+
+
+Yes
+
+
+Yes
+Yes
+
+
+Summary and commitments (3rd file)
+
+
+Yes
+
+
+
+
+Yes
+
+
+Review all files
+
+
+Yes
+
+
+Yes
+Yes
+
+
+Encode all files
+
+
+Yes
+
+
+
+
+
+
+
+
+Meeting note #1
+
+
+
+
+
+
+Yes
+
+
+
+
+Meeting note #2
+
+
+
+
+
+
+Yes
+
+
+
+
+Meeting note #3
+
+
+
+
+
+
+
+
+
+
+Yes
+Wiki homepage
+
+
+
+
+
+
+
+
+Yes
+
+
+Suggest Trello
+Yes
+
+
+
+
+
+
+
+
+
+
+
+
+Harshitha Ravindra: Suggested using Trello for management.
+
+Mihir Joshi: Participated in writing rationale and justification (2nd file); Participated summary in 3rd file; Reviewed all files; Encoded all files.
+
+Qiyuan Xiao: Discussed with TA during office hour; Summarized entity classes in 1st file.
+
+Yifei Li: Discussed with TA during office hour; Revised entity classes and relationships of 1st file; Participated in writing rationale and justification (2nd file); Wrote the 1st and 2nd meeting notes; Reviewed all files.
+
+Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Summarized commitments of 3rd file; Reviewed all files.
+
+Yunya Gu: Summarized relationships in 1st file; Wrote the 3rd meeting note.
+
+
+
+
+
+
+
+
+
+
