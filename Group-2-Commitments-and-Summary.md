@@ -181,7 +181,7 @@ Mihir Joshi: Participated in writing rationale and justification (2nd file); Par
 
 Qiyuan Xiao: Discussed with TA during office hour; Summarized entity classes in 1st file.
 
-Yifei Li: Discussed with TA during office hour; Revised entity classes and relationships of 1st file; Participated in writing rationale and justification (2nd file); Wrote the 1st and 2nd meeting notes; Reviewed all files.
+Yifei Li: Discussed with TA during office hour; Revised entity classes and relationships of 1st file; Participated in writing rationale and justification (2nd file); Wrote the 1st and 2nd meeting notes; Reviewed all files; Managed the team.
 
 Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Wrote commitments and summary of 3rd file; Reviewed all files; Helped encoding files.
 
