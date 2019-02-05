@@ -16,177 +16,32 @@ This is the 3rd file for submission. Addresses of all our work and summary of co
 Here are other detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
 
 | Work\Member | Harshitha Ravindra | Mihir Joshi | Qiyuan Xiao | Yifei Li | Yixin Zhang | Yunya Gu |
-| ----------- | ------------------ | ----------- | ----------- | -------- | ----------- | -------- |
-
-<table>
-     <tr>
-        <th>Work/Member</th>
-        <td>Harshitha Ravindra</th>
-        <td>Mihir Joshi</td>
-        <td>Qiyuan Xiao</td>
-        <td>Yifei Li</td>
-        <td>Yixin Zhang</td>
-        <td>Yunya Gu</td>
-     </tr>
-     </tr>
-        <td>Harshitha Ravindra</td>
-        <td>Mihir Joshi</td>
-        <td>Qiyuan Xiao</td>
-        <td>Yifei Li</td>
-        <td>Yixin Zhang</td>
-        <td>Yunya Gu</td>
-     <tr>
-</table>
-
-Work\Member
-Harshitha Ravindra
-Mihir Joshi
-Qiyuan Xiao
-Yifei Li
-Yixin Zhang
-Yunya Gu
-Propose entity classes and relationships
-Yes
-Yes
-Yes
-Yes
-Yes
-Yes
-Consult TA
-
-
-
-
-Yes
-Yes
-
-
-
-
-Entity classes and relationships summary (1st file)
-
-
-
-
-Yes
-Yes
-
-
-Yes
-Rationale and justification (2nd file)
-
-
-Yes
-
-
-Yes
-Yes
-
-
-Summary and commitments (3rd file)
-
-
-Yes
-
-
-
-
-Yes
-
-
-Review all files
-
-
-Yes
-
-
-Yes
-Yes
-
-
-Encode all files
-
-
-Yes
-
-
-
-
-
-
-
-
-Meeting note #1
-
-
-
-
-
-
-Yes
-
-
-
-
-Meeting note #2
-
-
-
-
-
-
-Yes
-
-
-
-
-Meeting note #3
-
-
-
-
-
-
-
-
-
-
-Yes
-Wiki homepage
-
-
-
-
-
-
-
-
-Yes
-
-
-Suggest Trello
-Yes
-
-
-
-
-
-
-
-
-
-
-
-
-Harshitha Ravindra: Suggested using Trello for management.
+| ----------- | ------------------ | ----------- | ----------- | -------- | ----------- | -------- | 
+| Propose entity classes and relationships | Yes | Yes | Yes | Yes | Yes | Yes |
+| Consult TA |   |   | Yes | Yes |   |   |
+| Entity classes and relationships summary (1st file) |   |   | Yes | Yes |   | Yes |
+| Rationale and justification (2nd file) |   | Yes |   | Yes | Yes |   |
+| Summary and commitments (3rd file) |    | Yes |   |   | Yes |   | 
+| Encode all files |   | Yes |   |   | Yes |   |
+| Meeting note #1 |   |   |   | Yes |   |   |
+| Meeting note #2 |   |   |   | Yes |   |   |
+| Meeting note #3 |   |   |   |   |   | Yes |
+| Wiki homepage |   |   |   |   | Yes |   |
+| Trello management | Yes |   |   |   |   |   |
+| Team management |   |   |   | Yes |   |   |
+| Final review |   | Yes | Yes | Yes | Yes |   |
+
+
+
+Harshitha Ravindra: Suggested using Trello for management and updated tasks on it.
 
 Mihir Joshi: Participated in writing rationale and justification (2nd file); Participated summary in 3rd file; Reviewed all files; Encoded all files.
 
-Qiyuan Xiao: Discussed with TA during office hour; Summarized entity classes in 1st file.
+Qiyuan Xiao: Discussed with TA during office hour; Summarized entity classes in 1st file; Reviewed all files.
 
 Yifei Li: Discussed with TA during office hour; Revised entity classes and relationships of 1st file; Participated in writing rationale and justification (2nd file); Wrote the 1st and 2nd meeting notes; Reviewed all files; Managed the team.
 
-Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Wrote commitments and summary of 3rd file; Reviewed all files; Helped encoding files.
+Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Wrote commitments and summary of 3rd file; Reviewed all files; Encoded all files.
 
 Yunya Gu: Summarized relationships in 1st file; Wrote the 3rd meeting note.
 
