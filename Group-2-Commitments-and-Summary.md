@@ -1,8 +1,8 @@
 # Commitments and Summary
 
-This is the 3rd file for submission. Addresses of all our work and summary of contributions of each group member are contained here. Overall, everyone has suggested some entity classes and relationships and participated in discussions to choose the top 20 most important. 
+This is the 3rd file for submission. Links of addresses of all our work and summary of contributions of each group member are contained here. Overall, everyone has suggested some entity classes and relationships and participated in discussions to choose the top 20 most important. 
 
-## Adresses of Our Work
+## Addresses of Our Work
 - Our final version of entity classes and relationships (1st file): https://github.com/IS561/MotorPool/blob/master/Group-2-Entity-Classes-and-Relationships.md
 - Our final version of rationale and justification (2nd file): https://github.com/IS561/MotorPool/blob/master/Group-2-Rationale.md
 - Our final version of commitments and summary (3rd file, i.e. this file): https://github.com/IS561/MotorPool/blob/master/Group-2-Commitments-and-Summary.md
