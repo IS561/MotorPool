@@ -1,6 +1,7 @@
 ## Entity Classes
 
 **1. Driver**: A collection of drivers who are eligible for borrowing university-owned vehicles. Each driver who is eligible for borrowing university-owned vehicles is an individual of this class.
+
 Driver attributes
 * Employee ID (Text)
 * Name (Text) 
@@ -13,12 +14,14 @@ Driver attributes
 
 **2. University of Kentucky Administration Department**:
 The administration department of the University of Kentucky that receives driver information from the driver information agency.
+
 University of Kentucky Administration Department attributes
 * Address (Text)
 * Phone Number (Text)
 
 **3. UK-Owned Motor Vehicle**
 A collection of vehicles that are owned by the University of Kentucky that are available to be borrowed by approved drivers. Each individual in this entity class is one UK-owned motor vehicle.
+
 UK-Owned Motor Vehicle attributes
 * Driver (Text)
 * Department (Text)
@@ -26,12 +29,14 @@ UK-Owned Motor Vehicle attributes
 
 **4. UK Risk Management**
 UK Risk Management is the company that has the car insurance contract with the university. Thus, the UK Risk Management represents as a whole to be the individual in this entity class.
+
 UK Risk Management attributes
 * Address (Text)
 * Phone Number (Text)
 
 **5. Motor Vehicle Record (MVR) Release and Information Fom**:
 A collection of forms submitted by drivers who want to borrow UK-owned vehicles. These forms are be used by the University's Risk Management department to get information of the applicants’ driving records.
+
 Motor Vehicle Record (MVR) Release and Information Form attributes
 * Driver Information (Text)
 * Department Information (Text) 
@@ -39,6 +44,7 @@ Motor Vehicle Record (MVR) Release and Information Form attributes
 
 **6. Motor Vehicle Insurance**
 A class of insurances that cover drivers who have the university's permission to borrow  UK-owned vehicles.
+
 Motor Vehicle Insurance attributes
 * Insurance Policy (Text)
 * Driver Information (Text)  
@@ -47,6 +53,7 @@ Motor Vehicle Insurance attributes
 
 **7. Accidet**:
 A UK-owned vehicle accident that is involved in operating official university business.
+
 Accident attributes
 * Date and Time (Date)
 * Location of the Accident (Text)
@@ -56,6 +63,7 @@ Accident attributes
 
 **8. Vehicle Accident Report**
 A report for an accident that is happened during operating official university business and  involves a UK-owned vehicle.
+
 Vehicle Accident Report attributes
 * Date and Time (Date)
 * Location of the Accident (Text)
@@ -68,6 +76,7 @@ Vehicle Accident Report attributes
 
 **9. Claim**
 A collection of requests to an insurance company for compensations in accordance with the university’s motor vehicle insurance policy.
+
 Vehicle Accident Report attributes
 * Insurance Carrier (Text)
 * Name of Driver (Text)
@@ -80,6 +89,7 @@ Vehicle Accident Report attributes
 
 **10. Driver Information Agency**
 An agency that stores information of drivers that can be made available for the university. The university uses the information to do background check on applicants to make decisions on whether approving borrowing UK-owned vehicle requests or not.
+
 Driver Information Agency attributes
 * Name (Text)
 * Address (Text)
@@ -88,6 +98,7 @@ Driver Information Agency attributes
 
 **11. Passenger Van Driver**
 A collection of employees who at University of Kentucky that drive a 12 or 15 passenger vans. 
+
 Passenger Van Driver attributes
 * Employee ID (Text)
 * Name (Text) 
@@ -102,6 +113,7 @@ Passenger Van Driver attributes
 
 **12. Driver Safety Awareness Training Course Test**
 A compulsory test offered by UK Environmental Health and Safety and to be taken by passenger van drivers before they are allowed to drive these vehicles.
+
 Driver Safety Awareness Training Course Test attributes
 * Course Content (Text)
 * Test (Text)
