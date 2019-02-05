@@ -1,6 +1,6 @@
 # Commitments and Summary
 
-This is the 3rd file for submission. * Address links * for all our work and summary of contributions of each group member are contained here. 
+This is the 3rd file for submission. __Address links__ for all our work and summary of contributions of each group member are contained here. 
 
 Overall, everyone has suggested some entity classes and relationships and participated in discussions to choose the top 20 most important. 
 
