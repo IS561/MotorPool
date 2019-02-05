@@ -12,7 +12,7 @@ This is the 3rd file for submission. Addresses of all our work and summary of co
 	- Note 3: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424013 
 - Our Wiki repository for drafts: https://github.com/IS561/MotorPool/wiki
 
-## Detailed Commitments of Each Member
+## Detailed Commitments of Each Group Member
 Here are other detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
 
 | Work\Member | Harshitha Ravindra | Mihir Joshi | Qiyuan Xiao | Yifei Li | Yixin Zhang | Yunya Gu |
@@ -31,19 +31,13 @@ Here are other detailed commitments of each group member, where “Yes” means 
 | Team management |   |   |   | Yes |   |   |
 | Final review |   | Yes | Yes | Yes | Yes |   |
 
-
-
-Harshitha Ravindra: Suggested using Trello for management and updated tasks on it.
-
-Mihir Joshi: Participated in writing rationale and justification (2nd file); Participated summary in 3rd file; Reviewed all files; Encoded all files.
-
-Qiyuan Xiao: Discussed with TA during office hour; Summarized entity classes in 1st file; Reviewed all files.
-
-Yifei Li: Discussed with TA during office hour; Revised entity classes and relationships of 1st file; Participated in writing rationale and justification (2nd file); Wrote the 1st and 2nd meeting notes; Reviewed all files; Managed the team.
-
-Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Wrote commitments and summary of 3rd file; Reviewed all files; Encoded all files.
-
-Yunya Gu: Summarized relationships in 1st file; Wrote the 3rd meeting note.
+List by each group member:
+- Harshitha Ravindra: Suggested using Trello for management and updated tasks on it.
+- Mihir Joshi: Participated in writing rationale and justification (2nd file); Participated summary in 3rd file; Reviewed all files; Encoded all files.
+- Qiyuan Xiao: Discussed with TA during office hour; Summarized entity classes in 1st file; Reviewed all files.
+- Yifei Li: Discussed with TA during office hour; Revised entity classes and relationships of 1st file; Participated in writing rationale and justification (2nd file); Wrote the 1st and 2nd meeting notes; Reviewed all files; Managed the team.
+- Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Wrote commitments and summary of 3rd file; Reviewed all files; Encoded all files.
+- Yunya Gu: Summarized relationships in 1st file; Wrote the 3rd meeting note.
 
 
 
