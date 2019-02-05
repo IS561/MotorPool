@@ -15,6 +15,9 @@ This is the 3rd file for submission. Addresses of all our work and summary of co
 ## Detailed Commitments of Each Member
 Here are other detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
 
+| Work\Member | Harshitha Ravindra | Mihir Joshi | Qiyuan Xiao | Yifei Li | Yixin Zhang | Yunya Gu |
+| ----------- | ------------------ | ----------- | ----------- | -------- | ----------- | -------- |
+
 <table>
      <tr>
         <th>Work/Member</th>
