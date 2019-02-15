@@ -28,14 +28,14 @@ UK-Owned Motor Vehicle attributes
 * License Plate (Text)
 
 **4. UK Risk Management**
-UK Risk Management is the company that has the car insurance contract with the university. Thus, the UK Risk Management represents as a whole to be the individual in this entity class.
+UK Risk Management is the company that has a car insurance contract with the university. Thus, the UK Risk Management represents as a whole to be the individual in this entity class.
 
 UK Risk Management attributes
 * Address (Text)
 * Phone Number (Text)
 
-**5. Motor Vehicle Record (MVR) Release and Information Fom**:
-A collection of forms submitted by drivers who want to borrow UK-owned vehicles. These forms are be used by the University's Risk Management department to get information of the applicants’ driving records.
+**5. Motor Vehicle Record (MVR) Release and Information Form**:
+A collection of forms submitted by drivers who want to borrow UK-owned vehicles. These forms are being used by the University's Risk Management department to get information about the applicants’ driving records.
 
 Motor Vehicle Record (MVR) Release and Information Form attributes
 * Driver Information (Text)
@@ -51,8 +51,8 @@ Motor Vehicle Insurance attributes
 * Vehicle Information (Text)  
 * Amount (Number)
 
-**7. Accidet**:
-A UK-owned vehicle accident that is involved in operating official university business.
+**7. Accident**:
+A UK-owned vehicle accident that is involved in operating the official university business.
 
 Accident attributes
 * Date and Time (Date)
@@ -62,7 +62,7 @@ Accident attributes
 * Police Case Number (Text)
 
 **8. Vehicle Accident Report**
-A report for an accident that is happened during operating official university business and  involves a UK-owned vehicle.
+A report for an accident that is happened during operating official university business and involves a UK-owned vehicle.
 
 Vehicle Accident Report attributes
 * Date and Time (Date)
@@ -88,7 +88,7 @@ Vehicle Accident Report attributes
 * Claim Amount (Number)
 
 **10. Driver Information Agency**
-An agency that stores information of drivers that can be made available for the university. The university uses the information to do background check on applicants to make decisions on whether approving borrowing UK-owned vehicle requests or not.
+An agency that stores information of drivers that can be made available for the university. The university uses the information to do the background check on applicants to make decisions on whether approving borrowing UK-owned vehicle requests or not.
 
 Driver Information Agency attributes
 * Name (Text)
@@ -97,7 +97,7 @@ Driver Information Agency attributes
 * Fax (Text)
 
 **11. Passenger Van Driver**
-A collection of employees who at University of Kentucky that drive a 12 or 15 passenger vans. 
+A collection of employees who work at the University of Kentucky that drive a 12 or 15 passenger van. 
 
 Passenger Van Driver attributes
 * Employee ID (Text)
@@ -125,7 +125,7 @@ Training Result attributes
 * Grade (Number)
 * Pass (Boolean)
 
-14. **Department Administratr**:
+14. **Department Administrator**:
 Department Administrator is a class of employees of the University of Kentucky that has responsibilities including approving the expenditure of departmental funds, approving employee drivers, approving non-employee drivers with express permission, and approving some emergency drivers to use Text Messaging while driving.
 
 Department Administrator attributes
@@ -167,18 +167,18 @@ Department Administrator attributes
 * Cardinality: 1-to-many
 
 **4. Shares information**
-* Scope note: A driver information agency shares driver information with University of Kentucky administration department so that the department can make decisions on whether approving drivers’ applications or not.
+* Scope note: A driver information agency shares driver information with the University of Kentucky administration department so that the department can make decisions on whether approving drivers’ applications or not.
 * Domain: Driver Information Agency
 * Codomain: University of Kentucky Administration Department
 * Arity: 2 (binary relationship) 
 * Cardinality: 1-to-1
 
 **5. Takes**
-* Scope note: A passenger van driver takes the driver safety awareness training course test to be allowed to drive van.
+* Scope note: A passenger van driver takes the driver safety awareness training course test to be allowed to drive a van.
 * Domain: Passenger van driver
 * Codomain: Driver Safety Awareness Training Course Test
 * Arity: 2 (binary relationship)
-* Cardinality:many-to-many 
+* Cardinality: many-to-many 
 
 **6. Approves**
 * Scope note: The department administrator approves a driver’s application of borrowing a UK-owned vehicle.
