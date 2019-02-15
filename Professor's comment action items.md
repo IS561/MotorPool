@@ -1,6 +1,6 @@
 I'm pleased with the teamwork you demonstrated. For future group assignments, please consider using more of Github's flexible and powerful progress tracking and version management. All of you could be updating the repository asynchronously.  10 points for teamwork, though. - **WIP**
 
-There are some spelling mistakes you missed. Moving forward you'll want to correct those. **Done - corected previous files**
+There are some spelling mistakes you missed. Moving forward you'll want to correct those. **Done - corrected previous files**
 
 Comments on the modeling choices:
 
