@@ -102,37 +102,73 @@ Department Administrator attributes
 ***
 
 ## Relationships
-**1. Drives**  
+
+**1. Fills Out**  
+* Scope note: A driver fills out a Motor Vehicle Record (MVR) release and information form to borrow a UK-owned vehicle.
+* Domain: Driver
+* Codomain: Motor Vehicle Record (MVR) Release and Information Form
+* Arity: 2 (binary relationship)
+* Cardinality: 1-to-many
+
+**2. Verifies**  
+* Scope note: The Risk Management department verifies a Motor Vehicle Record (MVR) release and information form, which contains driving records of the applicant
+* Domain: Risk Management
+* Codomain: Motor Vehicle Record (MVR) Release and Information Form
+* Arity: 2 (binary relationship) 
+* Cardinality: 1-to-many
+
+**3. Approves**  
+* Scope note: The department administrator approves the MVR release and information form of borrowing a UK-owned vehicle filled out by a driver.
+* Domain: Department Administrator
+* Codomain: Motor Vehicle Record (MVR) Release and Information Form
+* Arity: 2 (binary relationship) 
+* Cardinality: many-to-many
+
+**4. Drives**  
 * Scope note: A driver drives a UK-owned motor vehicle.
 * Domain: Driver
 * Codomain: UK-owned Motor Vehicle
 * Arity: 2 (binary relationship) 
 * Cardinality: many-to-many
 
-**2. Files**  
+**5. Covers**  
+* Scope note: A motor vehicle insurance covers UK-owned vehicles in case of accidents happened during the process of operating university business. 
+* Domain: Motor Vehicle Insurance
+* Codomain: Vehicle
+* Arity: 2 (binary relationship) 
+* Cardinality: 1-to-many
+
+**6. Writes**  
+* Scope note: When an accident happens and that accident involves a UK-owned vehicle during the process of operating university business, the driver of the UK-owned vehicle writes a vehicle accident report.
+* Domain: Driver
+* Codomain: Vehicle Accident Report
+* Arity: 2 (binary relationship) 
+* Cardinality: 1-to-many
+
+**7. Reports**  
+* Scope note: When an accident happens and that accident involves a UK-owned vehicle during the process of operating university business, a vehicle accident report needs to be written to report this accident.
+* Domain: Vehicle Accident Report
+* Codomain: Accident
+* Arity: 2 (binary relationship) 
+* Cardinality: 1-to-1
+
+**8. Processes**  
+* Scope note: A driver files the insurance claim as formal demand of compensation.
+* Domain: Department Administrator
+* Codomain: Vehicle Accident Report, Claim
+* Arity: 3 (ternary relationship)
+* Cardinality: 1-to-many (Department Administrator to Vehicle Accident Report),  1-to-many (Department Administrator to Claim)
+
+**9. Files**  
 * Scope note: A driver files the insurance claim as formal demand of compensation.
 * Domain: Driver
 * Codomain: Claim
 * Arity: 2 (binary relationship)
 * Cardinality: 1-to-many
 
-**3. Covers**  
-* Scope note: A motor vehicle insurance covers UK-owned vehicles in case of accidents happend during the process of operating university business. 
-* Domain: Motor Vehicle Insurance
-* Codomain: Vehicle
-* Arity: 2 (binary relationship) 
-* Cardinality: 1-to-many
-
-**4. Takes**  
+**10. Takes**  
 * Scope note: A van driver takes the driver safety awareness training course.
 * Domain: Van Driver
 * Codomain: Driver Safety Awareness Training Course
 * Arity: 2 (binary relationship)
 * Cardinality: many-to-many 
-
-**5. Approves**  
-* Scope note: The department administrator approves the MVR Release and Information Form of borrowing a UK-owned vehicle filled out by a driver.
-* Domain: Department Administrator
-* Codomain: Motor Vehicle Record (MVR) Release and Information Form
-* Arity: 2 (binary relationship) 
-* Cardinality: many-to-many
