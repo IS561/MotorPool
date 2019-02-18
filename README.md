@@ -1,3 +1,5 @@
 # MotorPool
 
-Welcome to MotorPool! We are group 2.
+Welcome to MotorPool!
+
+The files outside here are all for submission of group assignment 2.
