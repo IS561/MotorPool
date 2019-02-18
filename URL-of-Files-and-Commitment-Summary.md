@@ -4,9 +4,11 @@ This is the 3rd file for submission. __Address links__ for all our work and summ
 
 ## Addresses of Our Work
 - Our main repository: https://github.com/IS561/MotorPool
-- Our revised version of entity classes and relationships: https://github.com/IS561/MotorPool/blob/master/Group-2-Entity-Classes-and-Relationships.md
-- Our final version of rationale and justification: https://github.com/IS561/MotorPool/blob/master/Group-2-Rationale.md
-- Our final version of commitments and summary (3rd file, i.e. this file): https://github.com/IS561/MotorPool/blob/master/Group-2-Commitments-and-Summary.md
+- Our revised version of entity classes and relationships: https://github.com/IS561/MotorPool/blob/master/Entity-Classes-and-Relationships.md
+- Our final version of rationale and justification: https://github.com/IS561/MotorPool/blob/master/Rationale-Schema-Instance.md
+- Our schema level UML class diagram: https://github.com/IS561/MotorPool/blob/master/motor_uml.svg
+- Our instance level SVG diagram: 
+- Our final version of commitments and summary (i.e. this file): https://github.com/IS561/MotorPool/blob/master/URL-of-Files-and-Commitment-Summary.md
 - Our meeting notes: 
 	- Note 1: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424011
 	- Note 2: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424012
