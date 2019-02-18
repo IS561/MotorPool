@@ -1,4 +1,5 @@
-##Rationale for Group 2 Assignment 2##
+##Rationale for Group 2 Assignment 2
+
 After reading the comments professor and fellow classmates gave us, we realized that there are many things we missed to consider and there are unimportant details we considered into this model while we shouldn’t.
 
 Thus, based on the comment given by professor and fellow classmates also the advice given by TA, we made several changes to refine our motor pool model to better modeling the system for monitoring how well the "Using Vehicles" policies are respected at the University of Kentucky.
