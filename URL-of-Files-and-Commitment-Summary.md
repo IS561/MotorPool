@@ -1,53 +1,30 @@
 # Commitments and Summary
 
-This is the 3rd file for submission. __Address links__ for all our work and summary of contributions of each group member are contained here. 
+__Address links__ for all our work and summary of contributions of each group member are contained here. 
 
 ## Addresses of Our Work
 - Our main repository: https://github.com/IS561/MotorPool
 - Our revised version of entity classes and relationships: https://github.com/IS561/MotorPool/blob/master/Entity-Classes-and-Relationships.md
 - Our final version of rationale and justification: https://github.com/IS561/MotorPool/blob/master/Rationale-Schema-Instance.md
 - Our schema level UML class diagram: https://github.com/IS561/MotorPool/blob/master/motor_uml.svg
-- Our instance level SVG diagram: 
+- Our instance level SVG diagram: https://github.com/IS561/MotorPool/blob/master/Instance_RDF.svg 
 - Our final version of commitments and summary (i.e. this file): https://github.com/IS561/MotorPool/blob/master/URL-of-Files-and-Commitment-Summary.md
 - Our meeting notes: 
-	- Note 1: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424011
-	- Note 2: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424012
-	- Note 3: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=424013 
+	- Note 1: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=425724
+	- Note 2: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=425740 
 - Our Wiki repository for drafts: https://github.com/IS561/MotorPool/wiki
 
 ## Detailed Commitments of Each Group Member
-Here are other detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
+Here are detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
 
 | Work\Member | Harshitha Ravindra | Mihir Joshi | Qiyuan Xiao | Yifei Li | Yixin Zhang | Yunya Gu |
 | ----------- | ------------------ | ----------- | ----------- | -------- | ----------- | -------- | 
-| Propose entity classes and relationships | Yes | Yes | Yes | Yes | Yes | Yes |
-| Consult TA |   |   | Yes | Yes |   |   |
-| Entity classes and relationships summary (1st file) |   |   | Yes | Yes |   | Yes |
-| Rationale and justification (2nd file) |   | Yes |   | Yes | Yes |   |
-| Summary and commitments (3rd file) |    | Yes |   |   | Yes |   | 
-| Encode all files |   | Yes |   |   | Yes |   |
-| Meeting note #1 |   |   |   | Yes |   |   |
-| Meeting note #2 |   |   |   | Yes |   |   |
-| Meeting note #3 |   |   |   |   |   | Yes |
-| Wiki homepage |   |   |   |   | Yes |   |
-| Trello management | Yes |   |   |   |   |   |
-| Team management |   |   |   | Yes |   |   |
-| Final review |   | Yes | Yes | Yes | Yes |   |
-
-List by each group member:
-- Harshitha Ravindra: Suggested using Trello for management and updated tasks on it.
-- Mihir Joshi: Participated in writing rationale and justification (2nd file); Participated summary in 3rd file; Reviewed all files; Encoded all files.
-- Qiyuan Xiao: Discussed with TA during office hour; Summarized entity classes in 1st file; Reviewed all files.
-- Yifei Li: Discussed with TA during office hour; Revised entity classes and relationships of 1st file; Participated in writing rationale and justification (2nd file); Wrote the 1st and 2nd meeting notes; Reviewed all files; Managed the team.
-- Yixin Zhang: Summarized original proposals of everyone on Wiki homepage; Participated in writing rationale and justification (2nd file); Wrote commitments and summary of 3rd file; Reviewed all files; Encoded all files.
-- Yunya Gu: Summarized relationships in 1st file; Wrote the 3rd meeting note.
-
-
-
-
-
-
-
-
-
-
+| Review entity classes and relationships | Yes |   | Yes | Yes | Yes | Yes |
+| Revise entity classes and relationships |   |   |   | Yes |   |   |
+| Drafts of two diagrams |   |   |   | Yes | Yes | Yes |
+| Schema level UML class diagram |   |   |   |   |   | Yes |
+| Instance level SVG diagram |   |   |   |   | Yes |   |
+| Rationale and justification|   | Yes | Yes | Yes | Yes |   |
+| Summary and commitments|    |   |   |   | Yes |   | 
+| Consult TA |   |   |   | Yes | Yes | Yes |
+| Meeting notes |   |   |   | Yes | Yes | Yes |
