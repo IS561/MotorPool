@@ -1,10 +1,10 @@
 # Rationale for Group 2 Assignment 2
 
-After reading the comments professor and fellow classmates gave us, we realized that there were some things that we missed and there are trivial details we considered when making the model.
+After reading the comments professor and fellow classmates gave us, we realized that there were some things that we missed and there were some trivial details that we put too much emphasis on when we create the model.
 
-Thus, based on the comments made by professor and fellow classmates, along with the TA's advice, we made several changes to refine our motor pool model to better modeling the system for monitoring how well the "Using Vehicles" policies are respected at the University of Kentucky.
+Thus, based on the comments made by professor and fellow classmates, along with the TA's advice, we have made several changes to refine our motor pool model to fulfill the system requirements of tracking borrowed vehicles as well as monitoring how well the "Using Vehicles" policies are respected at the University of Kentucky.
 
-After our discussion, we made 5 major decisions about how to refine our model.
+After our discussion, we have made 5 major changes to refine our model.
 
 **The first is to combine entity classes which clearly can be described as one entity into one entity class.** With the guidance of classmates' and professor's comments, we noticed that the ‘Van Driver’ and ‘Driver’ are not necessarily two stand-alone classes. They can all be combined to form one entity class: ‘Driver’. The class ‘Van Driver’ is not significantly different than the ‘Driver’ class, except the fact that van drivers need to take a safety training course and pass the test; meaning, it involves the 'Training Result' entity class. This fact can be easily represented by an attribute about driver type and an attribute about passing the test or not. Therefore, we decided to remove these two entity classes and add them as two attributes to the 'Driver' class instead.
 
