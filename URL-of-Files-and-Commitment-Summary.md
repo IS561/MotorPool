@@ -28,3 +28,4 @@ Here are detailed commitments of each group member, where “Yes” means the gr
 | Summary and commitments|    |   |   |   | Yes |   | 
 | Consult TA |   |   |   | Yes | Yes | Yes |
 | Meeting notes |   |   |   | Yes | Yes | Yes |
+| Trello | Yes |   |   |   |   |   |
