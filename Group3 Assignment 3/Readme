@@ -1,1 +1,17 @@
+# Motorpool
+## Group 3: 
+- Jiang Chang
+- David Chanthabandith 
+- Sayantan Dutta
+- Pujeethaa Jakka
+- Yi (Joy) Liang 
+- Saxue Wang
+This folder consists of 
+1. A working and commented Datalog program that make the required inferences described below;
+2. A transcript of our program in action copied from the DES console;
+3. A revised schema level UML class diagram, based on the previous group's work, that includes a class or association for each new predicate that your program uses. Domain, codomain, and generalization rules should be reflected in the diagram using the usual graphical notation. Inverse relationships need not appear.
+4. A revised instance level graph that includes an edge for each asserted fact. Rules of inference need not appear in this graph.
+5. A written discussion of your rationale and justification for the group's decisions. As a guideline, aim to devote one paragraph to each important controversy that arose or decision that you made. To those add one paragraph at the beginning about what you decided and one at the end about the experience of conducting this analysis as a group. 
 
+Required Inferences
+Motor pool graph models. Employee A has filled out mvr3 (an MVR) and is the driver for Business Activity 1. That activity has been approved by Supervisor B, who supervises Employee A. Your program needs to demonstrate that Business Activity 1 is covered by insurance for these reasons, and that changing any of those facts can disqualify it from that status.
