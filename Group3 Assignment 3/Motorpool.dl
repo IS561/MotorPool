@@ -1,0 +1,94 @@
+% Motor Vehicle Insurance
+% https://courses.ischool.illinois.edu/mod/folder/view.php?id=306038
+% Datalog model by Group 3
+% March 24, 2019
+
+%
+% Instance graph assertions
+%
+
+% Business Activity and Insurance side
+possesses(employee, Driverslicense)
+drives(employee, vehicle)
+travelson(employee, businessactivity)
+approvedby(businessactivity, supervisor)
+coveredby(businessactivity, motorvehicleinsurance)
+employs(Universityofkentucky, employee)
+coveredby(Universityofkentucky,motorvehicleinsurance)
+
+% MVR release form side
+hasquantityof(employee, drivingexperience)
+fillsout(employee,MVRreleaseform)
+recievedby(MVRreleaseform, UKriskmanagement)
+verifies(UKriskmanagement,MVR)
+showsquantityof(MVR,deficientpoints)
+showsquantityof(MVR,atfaultaccidentcount)
+
+% 
+% Domains , codomains and inverse relationships 
+%
+
+% Inverse, domain and codomain for 'possesses'
+possessedby(driverslicense, employee):- possesses(employee, Driverslicense)
+employee(employee) :- possesses(employee,_)
+driverslicense(driverslicense) :- possesses(_,driverslicense)
+
+% Inverse, domain and codomain for 'drives'
+drivenby(vehicle, employee):- drives(employee, vehicle)
+employee(employee) :- drives(employee,_)
+vehicle(vehicle) :- drives(_,vehicle)
+
+% Inverse, domain and codomain for 'travelson'
+travelledon(businessactivity, employee):- travelson(employee, businessactivity)
+employee(employee) :- travelson(employee,_)
+businessactivity(businessactivity) :- travelson(_,businessactivity)
+
+% Inverse, domain and codomain for 'approvedby'
+approves(supervisor, businessactivity):- approvedby(businessactivity, supervisor)
+businessactivity(businessactivity) :- approvedby(businessactivity,_)
+supervisor(supervisor) :- approvedby(_,supervisor)
+
+% Inverse, domain and codomain for 'coveredby'
+covers(motorvehicleinsurance, businessactivity):- coveredby(businessactivity, motorvehicleinsurance)
+businessactivity(businessactivity) :- coveredby(businessactivity,_)
+motorvehicleinsurance(motorvehicleinsurance) :- coveredby(_,motorvehicleinsurance)
+
+% Inverse, domain and codomain for 'employs'
+employedby(employee, Universityofkentucky):- employs(Universityofkentucky, employee)
+Universityofkentucky(Universityofkentucky) :- employs(Universityofkentucky,_)
+employee(employee) :- employs(_,employee)
+
+% Inverse, domain and codomain for 'coveredby'
+covers(motorvehicleinsurance, Universityofkentucky):- coveredby(Universityofkentucky, motorvehicleinsurance)
+Universityofkentucky(Universityofkentucky) :- coveredby(Universityofkentucky,_)
+motorvehicleinsurance(motorvehicleinsurance) :- coveredby(_,motorvehicleinsurance)
+
+% Inverse, domain and codomain for 'hasquantityof'
+quantof(drivingexperience, employee):- hasquantityof(employee, drivingexperience)
+employee(employee) :- hasquantityof(employee,_)
+drivingexperience(drivingexperience) :- hasquantityof(_,drivingexperience)
+
+% Inverse, domain and codomain for 'fillsout'
+filledby(MVRreleaseform, employee):- fillsout(employee, MVRreleaseform)
+employee(employee) :- fillsout(employee,_)
+MVRreleaseform(MVRreleaseform) :- fillsout(_,MVRreleaseform)
+
+% Inverse, domain and codomain for 'receivedby'
+receives(UKriskmanagement, MVRreleaseform):- receivedby(MVRreleaseform, UKriskmanagement)
+MVRreleaseform(MVRreleaseform) :- receivedby(MVRreleaseform,_)
+UKriskmanagement(UKriskmanagement) :- receivedby(_,UKriskmanagement)
+
+% Inverse, domain and codomain for 'verifies'
+verifiedby(MVR,UKriskmanagement):- verifies(UKriskmanagement, MVR)
+UKriskmanagement(UKriskmanagement) :- verifies(UKriskmanagement,_)
+MVR(MVR) :- verifies(_,MVR)
+
+% Inverse, domain and codomain for 'showsquantityof'
+quantityshowed(deficientpoints,MVR):- showsquantityof(MVR,deficientpoints)
+MVR(MVR) :- showsquantityof(MVR,_)
+deficientpoints(deficientpoints) :- showsquantityof(_,deficientpoints)
+
+% Inverse, domain and codomain for 'showsquantityof'
+quantityshowed(atfaultaccidentcount,MVR):- showsquantityof(MVR,atfaultaccidentcount)
+MVR(MVR) :- showsquantityof(MVR,_)
+atfaultaccidentcount(atfaultaccidentcount) :- showsquantityof(_,atfaultaccidentcount)
