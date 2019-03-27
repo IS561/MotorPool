@@ -12,27 +12,34 @@ filedby(AwardApplication,Department) :- files(Department,AwardApplication).
 department(Department) :- files(Department,_).
 awardApplication(AwardApplication) :- files(_,AwardApplication).
 
-% Inverse, domain and codomain for 'refersto'
-referedto(AwardPolicy,AwardApplication) :- refersto(AwardApplication,AwardPolicy).
-awardApplication(AwardApplication) :- refersto(AwardApplication,_).
-awardPolicy(AwardPolicy) :- files(_,AwardPolicy).
+% Inverse, domain and codomain for 'isprocessedby'
+process(Official,AwardApplication) :- isprocessedby(AwardApplication,Official).
+awardApplication(AwardApplication) :- isprocessedby(AwardApplication,_).
+official(Official) :- isprocessedby(_,Official).
 
-% Inverse, domain and codomain for 'determines'
-determinedby(AwardCategory,AwardPolicy) :- determines(AwardPolicy,AwardCategory).
-awardPolicy(AwardPolicy) :- determines(AwardPolicy,_).
-awardCategory(AwardCategory) :- determines(_,AwardCategory).
+% Inverse, domain and codomain for 'approves'
+approvedby(Award,Official) :- approves(Official,Award).
+official(Official) :- approves(Official,_).
+award(Award) :- approves(_,Award).
 
-% Inverse, domain and codomain for 'isnotifiedto'
-notify(Official,AwardCategory) :- isnotifiedto(AwardCategory,Official).
-awardCategory(AwardCategory) :- isnotifiedto(AwardCategory,_).
-official(Official) :- isnotifiedto(_,Official).
+% Inverse, domain and codomain for 'hasamount'
+isof(Amount,Award) :- has_amount(Award,Amount).
+award(Award) :- has_amount(Award,_).
+amount(Amount) :- has_amount(_,Amount).
 
-% Inverse, domain and codomain for 'decides'
-decidedby(Award,Official) :- decides(Official,Award).
-official(Official) :- decides(Official,_).
-award(Award) :- files(_,Award).
+% Inverse, domain and codomain for 'hascategory'
+isof(Category,Award) :- has_amount(Award,Category).
+award(Award) :- has_amount(Award,_).
+category(Category) :- has_amount(_,Category).
 
 % Inverse, domain and codomain for 'isgrantedto'
 grantto(Student,Award) :- isgrantedto(Award,Student).
 award(Award) :- isgrantedto(Award,_).
-student(Student) :- sgrantedto(_,Student).
+student(Student) :- grantedto(_,Student).
+
+%
+% Rules of inference
+%
+
+% The Kentucky best engineer award is valued at $100. It is based in the engineering excellence program which is self-supporting and approved by the provost. The award has been approved by the Dean of Engineering. Your program needs to demonstrate that the KBEA is a category 2 award for these reasons, and that changing any of those facts can disqualify it from that status. Include an additional category 2 rule for prizes valued less than $50 that are approved by a dean, but need not be based in a provost-approved program.
+hasamount(KBEA,100) :- hascategory(KBEA,2),approves(Provost,KBEA),approves(Dean of Engineering,KBEA)
