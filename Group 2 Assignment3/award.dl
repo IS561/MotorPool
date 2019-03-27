@@ -1,3 +1,21 @@
+% Student awards and prizes
+% Datalog model by Group 2
+% March, 2019
+
+%
+% Instance graph assertions
+%
+
+belongsto(studentA,departmentOfEngineering).
+files(departmentOfEngineering,awardApplicationForStudentA).
+isprocessedby(awardApplicationForStudentA,deanOfEngineering).
+isprocessedby(awardApplicationForStudentA,provost).
+approves(provost,kbea).
+%approves(deanOfEngineering,kbea).
+has_amount(kbea,100).
+has_funder(kbea,selfSupporting).
+isgrantedto(kbea,studentA).
+
 %
 % Domains, codomains, and inverse relationships
 %
@@ -23,23 +41,26 @@ official(Official) :- approves(Official,_).
 award(Award) :- approves(_,Award).
 
 % Inverse, domain and codomain for 'hasamount'
-isof(Amount,Award) :- has_amount(Award,Amount).
+isofamount(Amount,Award) :- has_amount(Award,Amount).
 award(Award) :- has_amount(Award,_).
 amount(Amount) :- has_amount(_,Amount).
 
-% Inverse, domain and codomain for 'hascategory'
-isof(Category,Award) :- has_amount(Award,Category).
-award(Award) :- has_amount(Award,_).
-category(Category) :- has_amount(_,Category).
+% Inverse, domain and codomain for 'hasfunder'
+isoffunder(Funder,Award) :- has_funder(Award,Funder).
+award(Award) :- has_funder(Award,_).
+funder(Funder) :- has_funder(_,Funder).
 
 % Inverse, domain and codomain for 'isgrantedto'
 grantto(Student,Award) :- isgrantedto(Award,Student).
 award(Award) :- isgrantedto(Award,_).
-student(Student) :- grantedto(_,Student).
+student(Student) :- isgrantedto(_,Student).
 
-%
+%s
 % Rules of inference
 %
 
-% The Kentucky best engineer award is valued at $100. It is based in the engineering excellence program which is self-supporting and approved by the provost. The award has been approved by the Dean of Engineering. Your program needs to demonstrate that the KBEA is a category 2 award for these reasons, and that changing any of those facts can disqualify it from that status. Include an additional category 2 rule for prizes valued less than $50 that are approved by a dean, but need not be based in a provost-approved program.
-hasamount(KBEA,100) :- hascategory(KBEA,2),approves(Provost,KBEA),approves(Dean of Engineering,KBEA)
+% The Kentucky best engineer award is valued at $100. It is based in the engineering excellence program which is self-supporting and approved by the
+%provost. The award has been approved by the Dean of Engineering. Your program needs to demonstrate that the KBEA is a category 2 award for these reasons,
+%and that changing any of those facts can disqualify it from that status. Include an additional category 2 rule for prizes valued less than $50 that are
+%approved by a dean, but need not be based in a provost-approved program.
+is_category2(Award, Amount, Funder, Official) :- has_amount(Award, Amount),has_funder(Award, Funder), approves(Official, Award).
