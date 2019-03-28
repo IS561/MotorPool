@@ -11,7 +11,8 @@ Warning: Y<50 may raise a computing exception if non-ground at run-time.
 Warning: Next rule is unsafe because of variable: [Y]
 st50(Y) :-
 Y<50.
-![image](https://user-images.githubusercontent.com/46877258/55187739-cb8ce280-5167-11e9-8124-61be90b22bc8.png){:height="50%" width="50%"}
+![image](https://user-images.githubusercontent.com/46877258/55187739-cb8ce280-5167-11e9-8124-61be90b22bc8.png)
+<img src="https://user-images.githubusercontent.com/46877258/55187739-cb8ce280-5167-11e9-8124-61be90b22bc8.png" width="400" height="800">
 ***
 ### Step2: check provostApprove, deanApprove and isSelfSupporting
 DES> provostApprove(kbea) 
