@@ -1,14 +1,15 @@
 # Rationale for Group 2 Assignment 3
 For this assignment, our group worked together to complete the five deliverables. Firstly, before starting to revise its diagrams, we read through the supporting documents of group five to gain an overview on the system purposes and entities that are involved. Next, we reviewed the UML diagram and RDF diagram of group five to understand their interpretation of the scenario. Then, when revising the UML diagram, we decided to focus on modifying the group five's work in a way that would best suit its implementation in Datalog programming. According to professor's assignment instruction, we made changes on the UML diagram based on our understanding, and we added necessary entity classes and corresponding relationships to better reflect the inferences mentioned in the instruction. Finally, we draw the RDF diagram based on the revised UML diagram, and we wrote Datalog code to test our assumptions on the inferences until we got satisfying results. 
 ***
-### Focus on certain classes
+### Diagrams: Focus on certain classes
 We had some discussions when revising the UML diagram of group five. The first step we took in this approach was to narrow down the scope of our analysis only on the entities relative to the process of giving an award. Therefore, we have put less focus on certain entity classes like Guideline, Admin Office and PRD that are about processing documents after awarding and assessing its validity. When we referred back to the document, we concluded that the process that is the most relevant to our assignment is the university officials (in this case, the provost and the dean) approve an award application filed by a department, then give the award to the student of the department completing the loop. Moreover, since our assignment is about adding necessary entities and relationships about determing if an award is category two, we decided to redesign the entity classes Award and Official and put more details on them.
-### Amount and Funder as entity classes
+### Diagrams: Amount and Funder as entity classes
 Another important aspect we covered was making Amount and Funder as separate entity classes as this would help us deal with implementing in the code. According to the assignment instruction, there are three measurments that work together to determine whether an award is category two or not: the amount, the funder as well as the person who approves it. If the award amount is between $50 to $500, it has to be approved by both the dean and the provost and be self supporting in order to become a category two award. If the award amount is lower than $50, it only needs to be approved by the dean and be self supporting. Therefore, we believed that these three measurements should be entity classes instead of attributes of the Award class to be reflected in our Datalog code. 
 ***
-### 
-
-### 
+### Datalog: writing rules of inference
+After revising the diagrams and finishing drawing the new ones, writing the first two parts of the Datalog code: instance graph assertions and domains, codomains and inverse relationships, went very smoothly for our group, and the only things we needed to pay attention to were the syntax and avoiding typos. However, it took us a lot longer to finish the third part: rules of inference.  
+Identifying the three measurements that determine if an award is category two is extremely helpful for us, since they together form the inference logic of the statement. We firstly created three functions: gt50, st500 and st50, which mean greater than 50 dollars, smaller than 500 dollars and smaller than 50 dollars. We need to use these functions to filter awards and see if they fulfill the following criteria. 
+### Datalog: creating a new award
 ***
-### Group Work
+### Group work
 Overall as a group we firstly brainstormed about how we could modify the previous work for this scenario, we discussed as what would be more appropriate and came up with conclusions that were agreed upon after convincing justifications by the proposer of the idea. We came up with the schema level instance diagram, we split the coding into 3 parts where first part would contain Domains, codomains, and inverse relationships, the second part would be to code the Instance graph assertions and finally the Rules of inference part.
