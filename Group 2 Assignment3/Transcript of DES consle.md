@@ -46,8 +46,8 @@ Info: 1 tuple computed.
   
 **Screenshot**  
 <img src="https://user-images.githubusercontent.com/46877258/55188973-ac438480-516a-11e9-80da-49c3a3a9e9e2.png" width="190" height="100">
-
-### Step 3: check whether small prize is a category 2 award (computing 1 tuple means small prize is category 2)
+***
+### Step 4: check whether small prize is a category 2 award (computing 1 tuple means small prize is category 2)
 #### We created an award named "small prize". It is $10, self supporting and approved by on the dean.
 DES> is_category2_st50(small_prize,10)  
 {  
@@ -57,3 +57,5 @@ Info: 1 tuple computed.
   
 **Screenshot**  
 <img src="https://user-images.githubusercontent.com/46877258/55189245-620ed300-516b-11e9-90d4-89b47a45b0b8.png" width="220" height="100">
+
+Referred source: https://ardalis.com/add-images-easily-to-github (how to add images to GitHub)
