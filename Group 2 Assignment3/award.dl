@@ -63,4 +63,15 @@ student(Student) :- isgrantedto(_,Student).
 %provost. The award has been approved by the Dean of Engineering. Your program needs to demonstrate that the KBEA is a category 2 award for these reasons,
 %and that changing any of those facts can disqualify it from that status. Include an additional category 2 rule for prizes valued less than $50 that are
 %approved by a dean, but need not be based in a provost-approved program.
-is_category2(Award, Amount, Funder, Official) :- has_amount(Award, Amount),has_funder(Award, Funder), approves(Official, Award).
+gt50(Y) :- Y>=50.
+st500(Y) :- Y<500.
+st50(Y) :- Y<50.
+provostApprove(Award) :- approves(provost, Award).
+deanApprove(Award) :- approves(deanOfEngineering, Award).
+isSelfSupporting(Award) :- has_funder(Award, selfSupporting).
+is_category2_gt50(Award, Amount) :- has_amount(Award, Amount), gt50(Amount), st500(Amount), provostApprove(Award), deanApprove(Award), isSelfSupporting(Award).
+
+approves(deanOfEngineering, small_prize).
+has_amount(small_prize,10).
+has_funder(small_prize,selfSupporting).
+is_category2_st50(Award, Amount) :- has_amount(Award, Amount), st50(Amount), deanApprove(Award), isSelfSupporting(Award).
