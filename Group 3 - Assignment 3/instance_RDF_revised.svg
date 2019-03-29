@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="54cm" height="24cm" viewBox="56 -49 1061 472" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="56cm" height="24cm" viewBox="9 -49 1109 472" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
     <ellipse style="fill: #ffffff" cx="680" cy="264" rx="20" ry="20"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="680" cy="264" rx="20" ry="20"/>
@@ -228,4 +228,15 @@
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="827" y="-24">
     <tspan x="827" y="-24">mp:employs</tspan>
   </text>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="9.50405" y="-40.4959" width="486.358" height="87.7048"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x="9.50405" y="-40.4959" width="486.358" height="87.7048"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="9.50405" y="-40.4959" width="486.358" height="87.7048"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="252.683" y="0.130513">
+      <tspan x="252.683" y="0.130513">Employee A has filled out mvr3 (an MVR) and is the driver for Business Activity 1.</tspan>
+      <tspan x="252.683" y="16.1305"> That activity has been approved by Supervisor B, who supervises Employee A. </tspan>
+    </text>
+  </g>
 </svg>
