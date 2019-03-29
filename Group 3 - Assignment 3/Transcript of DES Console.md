@@ -6,11 +6,11 @@
 
 ### 1)Employee is a driver on business activity 
 
-# 2)Employee has filled out MVR Release
+### 2)Employee has filled out MVR Release
 
-# 3)Supervisor supervises Employee
+### 3)Supervisor supervises Employee
 
-# 4)Supervisor has approved business activity
+### 4)Supervisor has approved business activity
 
 
 ![rule 2](https://github.com/IS561/EmploymentClassification/blob/master/Assignment3/Images/Capture1.JPG)
