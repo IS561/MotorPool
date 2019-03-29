@@ -1,3 +1,4 @@
+## RATIONALE AND JUSTIFICATIon
 For the assignment 3, we worked together in two team meetings to finish the five deliverables.
 In the first meeting our team met on campus and the second meeting was conducted on-line. To begin with the assignment, first we started to re-examine the assignment outlines. For that we read through all the documents of Group-2's to pick up a diagram on the framework purposes and elements that are included. Next, we audited the UML chart and RDF graph of Group 2 to comprehend their translation of the situation. 
 
