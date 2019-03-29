@@ -1,0 +1,19 @@
+Entity Employee-A fills out an MVR release form. The insurance is not covered to Employee-A now. The insurance is covered to the University of Kentucky by UK motor vehicle insurance. 
+
+
+Driver’s license and Employee has an inverse relationship for ‘possesses’. An employee possesses a driver’s license and a driver’s license is possessed by an employee.
+
+
+An employee and vehicle has inverse relationship for ‘drives’. An employee drives a vehicle, and a vehicle is driven by an employee. 
+
+
+Employee and Business-activity have inverse relationship for ‘travelson’. An Employee travels-on Business-activity, and Business-activity is traveled-on Employee.
+
+
+Business-activity and Supervisor are inversely related for ‘approved-by’. A Supervisor approves Business-activity. And a Business-activity is approved by Supervisor.
+
+Business-activity and Motor Vehicle Insurance are inversely related for ‘covered-by’.  Business-activity is covered by Motor Vehicle Insurance.  And Motor Vehicle Insurance covers Business-activity.
+
+University-of-Kentucky and Employee have an inverse relationship for ‘employs’. University-of-Kentucky employs an Employee. And an Employee is employed by  University-of-Kentucky.
+
+Motor Vehicle Insurance covers  University-of-Kentucky,  and University-of-Kentucky is covered by Motor Vehicle Insurance. So University-of-Kentucky and Motor Vehicle Insurance have a inverse relationship for ‘covers’.
