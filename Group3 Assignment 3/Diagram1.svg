@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="38cm" height="29cm" viewBox="19 6 748 573" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="21.125" y="7.5" width="541.75" height="52.5"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 0.004; stroke: #000000" x="21.125" y="7.5" width="541.75" height="52.5"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="292" y="38.55">
+      <tspan x="292" y="38.55">An employe who travels on a business activity while driving is a driver on a business activity</tspan>
+    </text>
+  </g>
+  <image x="22.5" y="390.5" width="744.25" height="188.5" xlink:href="file:///C:/Users/Pujeethaa%20Jakka/Pictures/Capture1.JPG"/>
+  <image x="21.5" y="80.5" width="539.5" height="195.358" xlink:href="file:///C:/Users/Pujeethaa%20Jakka/Pictures/Capture2.JPG"/>
+  <g>
+    <rect style="fill: #ffffff" x="20" y="271.75" width="547" height="101"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 0.004; stroke: #000000" x="20" y="271.75" width="547" height="101"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="293.5" y="295.05">
+      <tspan x="293.5" y="295.05">A business activity is covered if </tspan>
+      <tspan x="293.5" y="311.05">1)Employee is driver on business activity </tspan>
+      <tspan x="293.5" y="327.05">2)Employee has filled out MVR Release</tspan>
+      <tspan x="293.5" y="343.05">3)Supervisor supervises Employee</tspan>
+      <tspan x="293.5" y="359.05">4)Supervisor has approved business activity</tspan>
+    </text>
+  </g>
+</svg>
