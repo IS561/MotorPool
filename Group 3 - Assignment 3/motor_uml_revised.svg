@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="52cm" height="26cm" viewBox="58 -3 1035 510" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="505" y="123" width="91.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="505" y="123" width="91.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="550.775" y="143">University</text>
+    <rect style="fill: #ffffff" x="505" y="151" width="91.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="505" y="151" width="91.55" height="8"/>
+    <rect style="fill: #ffffff" x="505" y="159" width="91.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="505" y="159" width="91.55" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="670" y="227" width="88.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="670" y="227" width="88.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="714.05" y="247">Employee</text>
+    <rect style="fill: #ffffff" x="670" y="255" width="88.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="670" y="255" width="88.1" height="8"/>
+    <rect style="fill: #ffffff" x="670" y="263" width="88.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="670" y="263" width="88.1" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="550.775,167 550.775,197 714.05,197 714.05,227 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="632.413" y="193">employs</text>
+    <polygon style="fill: #000000" points="661.363,193 661.363,185 669.362,189 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="554.775" y="179">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="718.05" y="223">N</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="840" y="126" width="146.15" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="840" y="126" width="146.15" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="913.075" y="146">Business Activity</text>
+    <rect style="fill: #ffffff" x="840" y="154" width="146.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="840" y="154" width="146.15" height="8"/>
+    <rect style="fill: #ffffff" x="840" y="162" width="146.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="840" y="162" width="146.15" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="659" y="31" width="188.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="659" y="31" width="188.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="753.1" y="51">Fleet Insurance Policy</text>
+    <rect style="fill: #ffffff" x="659" y="59" width="188.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="659" y="59" width="188.2" height="8"/>
+    <rect style="fill: #ffffff" x="659" y="67" width="188.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="659" y="67" width="188.2" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="550.776,123 551,123 551,53 658.008,53 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="84">covered by</text>
+    <polygon style="fill: #000000" points="632,84 632,76 640,80 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="554.776" y="119">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="654.008" y="49">1</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="759.105,249 799.553,249 799.553,140 840,140 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="801.553" y="190.5">travels on</text>
+    <polygon style="fill: #000000" points="880.553,190.5 880.553,182.5 888.553,186.5 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="763.105" y="245">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="836" y="136">N</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="974" y="463" width="96.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="974" y="463" width="96.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1022.05" y="483">Supervisor</text>
+    <rect style="fill: #ffffff" x="974" y="491" width="96.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="974" y="491" width="96.1" height="8"/>
+    <rect style="fill: #ffffff" x="974" y="499" width="96.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="974" y="499" width="96.1" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="986.15,170 1022,170 1022,335 1022.05,335 1022.05,463 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1022.03" y="331">approved by</text>
+    <polygon style="fill: #000000" points="1066.38,331 1066.38,323 1074.38,327 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="990.15" y="166">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1026.05" y="459">N</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="648" y="401" width="132.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="648" y="401" width="132.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="714.25" y="421">Drivers License</text>
+    <rect style="fill: #ffffff" x="648" y="429" width="132.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="648" y="429" width="132.5" height="8"/>
+    <rect style="fill: #ffffff" x="648" y="437" width="132.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="648" y="437" width="132.5" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="714.05,271 714.05,336 714.25,336 714.25,401 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="714.15" y="332">possesses</text>
+    <polygon style="fill: #000000" points="750.8,332 750.8,324 758.8,328 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="718.05" y="283">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="718.25" y="397">1</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="447" y="400" width="161.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="447" y="400" width="161.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="527.775" y="420">Driving Experience</text>
+    <rect style="fill: #ffffff" x="447" y="428" width="161.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="447" y="428" width="161.55" height="8"/>
+    <rect style="fill: #ffffff" x="447" y="436" width="161.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="447" y="436" width="161.55" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="670,271 670,331.502 527.776,331.502 527.776,400 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="598.888" y="327.502">has quantity of</text>
+    <polygon style="fill: #000000" points="537.138,327.502 537.138,319.502 529.138,323.502 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="674" y="283">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="531.776" y="396">1</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="348" y="220" width="160.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="348" y="220" width="160.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="428.15" y="240">MVR Release Form</text>
+    <rect style="fill: #ffffff" x="348" y="248" width="160.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="348" y="248" width="160.3" height="8"/>
+    <rect style="fill: #ffffff" x="348" y="256" width="160.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="348" y="256" width="160.3" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="670,241 554,241 554,242 509.303,242 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="556" y="237.5">fills out</text>
+    <polygon style="fill: #000000" points="552,237.5 552,229.5 544,233.5 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="666" y="237">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="513.303" y="238">N</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="159" y="221" width="154" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="159" y="221" width="154" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="236" y="241">Risk Management</text>
+    <rect style="fill: #ffffff" x="159" y="249" width="154" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="159" y="249" width="154" height="8"/>
+    <rect style="fill: #ffffff" x="159" y="257" width="154" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="159" y="257" width="154" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="428.15,264 428.15,286 236,286 236,265 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="332.075" y="282">received by</text>
+    <polygon style="fill: #000000" points="285.725,282 285.725,274 277.725,278 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="432.15" y="276">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="240" y="277">1</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="66" y="183" width="46.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="66" y="183" width="46.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="89.35" y="203">MVR</text>
+    <rect style="fill: #ffffff" x="66" y="211" width="46.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="66" y="211" width="46.7" height="8"/>
+    <rect style="fill: #ffffff" x="66" y="219" width="46.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="66" y="219" width="46.7" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="236,221 236,197 112.7,197 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="174.35" y="193">verifies</text>
+    <polygon style="fill: #000000" points="139.55,193 139.55,185 131.55,189 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="240" y="217">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="116.7" y="193">N</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="101" y="59" width="145.95" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="101" y="59" width="145.95" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="173.975" y="79">At-fault Accident</text>
+    <rect style="fill: #ffffff" x="101" y="87" width="145.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="101" y="87" width="145.95" height="8"/>
+    <rect style="fill: #ffffff" x="101" y="95" width="145.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="101" y="95" width="145.95" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="89.35,183 89.35,148 173.975,148 173.975,104.007 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="131.663" y="144">shows quantity of</text>
+    <polygon style="fill: #000000" points="199.113,144 199.113,136 207.113,140 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="93.35" y="179">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="177.975" y="116.007">N</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="90" y="322" width="137.35" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="90" y="322" width="137.35" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="158.675" y="342">Deficient Points</text>
+    <rect style="fill: #ffffff" x="90" y="350" width="137.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="90" y="350" width="137.35" height="8"/>
+    <rect style="fill: #ffffff" x="90" y="358" width="137.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="90" y="358" width="137.35" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="89.35,227 89.35,292 158.675,292 158.675,321.021 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="124.013" y="288">shows quantity of</text>
+    <polygon style="fill: #000000" points="191.463,288 191.463,280 199.463,284 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="93.35" y="239">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.675" y="317.021">N</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="862" y="309" width="68.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="862" y="309" width="68.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="896.1" y="329">Vehicle</text>
+    <rect style="fill: #ffffff" x="862" y="337" width="68.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="862" y="337" width="68.2" height="8"/>
+    <rect style="fill: #ffffff" x="862" y="345" width="68.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="862" y="345" width="68.2" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="758.1,271 800.546,271 800.546,331 861.002,331 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="802.546" y="297">drives</text>
+    <polygon style="fill: #000000" points="850.746,297 850.746,289 858.746,293 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="762.1" y="267">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="857.002" y="327">N</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="753.1,76.0056 753.1,100.003 916,100.003 916,124 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="834.55" y="96.0028">covered by</text>
+    <polygon style="fill: #000000" points="792.05,96.0028 792.05,88.0028 784.05,92.0028 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="757.1" y="88.0056">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="920" y="120">N</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="505,137 484,137 484,14 1092.1,14 1092.1,477 1070.1,477 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="788.05" y="10">employs</text>
+    <polygon style="fill: #000000" points="817,10 817,2 825,6 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="501" y="133">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1074.1" y="473">N</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="758.1,271 791,271 791,477 974,477 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="793" y="370">supervised by</text>
+    <polygon style="fill: #000000" points="895.1,370 895.1,362 903.1,366 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="762.1" y="267">N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="970" y="473">1</text>
+  </g>
+</svg>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="54cm" height="24cm" viewBox="56 -49 1061 472" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffffff" cx="680" cy="264" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="680" cy="264" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="680" cy="264" rx="20" ry="20"/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 673,139 A 70.9892,70.9892 0 0 0 672.844,237.498"/>
+    <polygon style="fill: #000000" points="678.246,242.613 667.302,240.328 672.365,237.959 673.507,232.486 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="678.246,242.613 667.302,240.328 672.365,237.959 673.507,232.486 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="646" y="298">
+    <tspan x="646" y="298">:employeeA</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="673" cy="119" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="673" cy="119" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="673" cy="119" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="674" y="150">
+    <tspan x="674" y="150">:universityOfKentucky</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="890" cy="61" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="890" cy="61" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="890" cy="61" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="816" y="97">
+    <tspan x="816" y="97">:UKMotorVehicleInsurance</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="574" y="200">
+    <tspan x="574" y="200">mp:employs</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 861.395,56.4764 A 154.622,154.622 0 0 0 673,99"/>
+    <polygon style="fill: #000000" points="868.054,59.8978 856.889,59.3192 861.529,56.201 861.818,50.6184 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="868.054,59.8978 856.889,59.3192 861.529,56.201 861.818,50.6184 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="709" y="37">
+    <tspan x="709" y="37">mp:covered-by</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="924" cy="179" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="924" cy="179" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="924" cy="179" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="888" y="217">
+    <tspan x="888" y="217">:businessActivity</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 944,179 A 61.4041,61.4041 0 0 0 919.471,59.1706"/>
+    <polygon style="fill: #000000" points="912.155,60.4048 920.464,52.9233 919.385,58.4084 923.126,62.5625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="912.155,60.4048 920.464,52.9233 919.385,58.4084 923.126,62.5625 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="993" y="125">
+    <tspan x="993" y="125">mp:covered-by</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="988.488" cy="298" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="988.488" cy="298" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="988.488" cy="298" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="956.488" y="339">
+    <tspan x="956.488" y="339">:supervisorA</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1011.62,278.128 A 67.6818,67.6818 0 0 0 943.694,171.702"/>
+    <polygon style="fill: #000000" points="1006.92,283.89 1010.36,273.253 1012.18,278.541 1017.5,280.262 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1006.92,283.89 1010.36,273.253 1012.18,278.541 1017.5,280.262 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1024.49" y="217">
+    <tspan x="1024.49" y="217">mp:approved-by</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 894.458,177.112 A 191.376,191.376 0 0 0 700,264"/>
+    <polygon style="fill: #000000" points="901.818,178.51 890.966,181.2 894.5,176.868 893.156,171.442 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="901.818,178.51 890.966,181.2 894.5,176.868 893.156,171.442 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="760.876" y="213">
+    <tspan x="760.876" y="213">mp:travels-on</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="846.876" cy="323" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="846.876" cy="323" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="846.876" cy="323" rx="20" ry="20"/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 839.893,296.235 A 158.637,158.637 0 0 0 700.202,258.304"/>
+    <polygon style="fill: #000000" points="845.318,301.396 834.765,297.704 840.094,296.014 841.94,290.738 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="845.318,301.396 834.765,297.704 840.094,296.014 841.94,290.738 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="821.876" y="361">
+    <tspan x="821.876" y="361">:vehicleA</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="774.876" y="259">
+    <tspan x="774.876" y="259">mp:drives</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="471.876" cy="265" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="471.876" cy="265" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="471.876" cy="265" rx="20" ry="20"/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 660.18,257.044 A 280.729,280.729 0 0 0 500.947,255.049"/>
+    <polygon style="fill: #000000" points="493.758,257.172 501.758,249.362 500.901,254.886 504.806,258.887 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="493.758,257.172 501.758,249.362 500.901,254.886 504.806,258.887 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="548.876" y="267">
+    <tspan x="548.876" y="267">mp:fills-out</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="367.876" cy="227" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="367.876" cy="227" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="367.876" cy="227" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="300.876" y="265">
+    <tspan x="300.876" y="265">:UKRiskManagement</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 459.207,248.283 A 86.625,86.625 0 0 0 398.019,221.959"/>
+    <polygon style="fill: #000000" points="390.563,222.165 400.012,216.189 398.025,221.414 401.013,226.139 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="390.563,222.165 400.012,216.189 398.025,221.414 401.013,226.139 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="424.876" y="216">
+    <tspan x="424.876" y="216"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="420.876" y="222">
+    <tspan x="420.876" y="222">mp:received-by</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="242.876" cy="228" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="242.876" cy="228" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="242.876" cy="228" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="165.877" y="265">
+    <tspan x="165.877" y="265">:employeeA'sMVR</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 347.876,227 A 78.9125,78.9125 0 0 0 269.031,212.226"/>
+    <polygon style="fill: #000000" points="262.142,215.065 268.787,206.073 268.827,211.664 273.322,214.986 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="262.142,215.065 268.787,206.073 268.827,211.664 273.322,214.986 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="288.876" y="199">
+    <tspan x="288.876" y="199">mp: verifies</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="580.876" cy="380" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="580.876" cy="380" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="580.876" cy="380" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="430.876" y="420">
+    <tspan x="430.876" y="420">:employeeA'sDrivingExperience</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 660,264 A 106.729,106.729 0 0 0 581.967,350.356"/>
+    <polygon style="fill: #000000" points="581.026,357.769 576.708,347.456 581.529,350.286 586.686,348.127 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="581.026,357.769 576.708,347.456 581.529,350.286 586.686,348.127 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="473.876" y="334">
+    <tspan x="473.876" y="334">mp:has-quantity-of</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="714.876" cy="380" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="714.876" cy="380" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="714.876" cy="380" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="670.876" y="420">
+    <tspan x="670.876" y="420">:employeeA'sDriverLicense</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 738.021,360.245 A 61.389,61.389 0 0 0 700.97,264.919"/>
+    <polygon style="fill: #000000" points="733.421,366.065 736.804,355.409 738.648,360.687 743.976,362.378 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="733.421,366.065 736.804,355.409 738.648,360.687 743.976,362.378 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="658.876" y="330">
+    <tspan x="658.876" y="330">mp:possesses</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="282.876" cy="106" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="282.876" cy="106" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="282.876" cy="106" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="235.876" y="144">
+    <tspan x="235.876" y="144">:employeeA'sAtFaultAccidentCount</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 256.234,91.3508 A 59.1977,59.1977 0 1 0 242.876,208"/>
+    <polygon style="fill: #000000" points="263.316,93.5412 252.154,94.185 256.426,90.5789 256.104,84.998 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="263.316,93.5412 252.154,94.185 256.426,90.5789 256.104,84.998 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="56.8766" y="139">
+    <tspan x="56.8766" y="139">mp:shows-quantity-of</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="258.876" cy="363" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="258.876" cy="363" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="258.876" cy="363" rx="20" ry="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="207.876" y="402">
+    <tspan x="207.876" y="402">:employeeA'sDeficientPts</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 222.876,228 A 74.5769,74.5769 0 1 0 230.892,375.229"/>
+    <polygon style="fill: #000000" points="238.103,373.379 230.308,381.393 231.022,375.849 227.014,371.951 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="238.103,373.379 230.308,381.393 231.022,375.849 227.014,371.951 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="160.877" y="320">
+    <tspan x="160.877" y="320">mp:shows-quantity-of</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="397.876" y="302">
+    <tspan x="397.876" y="302">:employeeA'sMVRreleaseForm</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 960.754,285.507 A 231.392,231.392 0 0 0 699,258"/>
+    <polygon style="fill: #000000" points="966.366,290.473 955.647,287.297 960.888,285.351 962.476,279.992 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="966.366,290.473 955.647,287.297 960.888,285.351 962.476,279.992 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="841" y="276">
+    <tspan x="841" y="276">mp:supervisedby</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1009.05,275.249 A 200.382,200.382 0 1 0 653,119"/>
+    <polygon style="fill: #000000" points="1004.36,281.097 1007.06,270.246 1009.23,275.394 1014.66,276.74 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1004.36,281.097 1007.06,270.246 1009.23,275.394 1014.66,276.74 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="827" y="-24">
+    <tspan x="827" y="-24">mp:employs</tspan>
+  </text>
+</svg>
