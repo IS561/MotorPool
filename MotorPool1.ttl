@@ -20,7 +20,7 @@
 @prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix protege: <http://protege.stanford.edu/plugins/owl/protege#> .
-@base <http://is561.org/MotorPool> .
+@base <http://is561.org/MotorPool#> .
 
 <http://is561.org/MotorPool> rdf:type owl:Ontology .
 
@@ -35,6 +35,8 @@
 :receivedby rdf:type owl:ObjectProperty .
 :verify rdf:type owl:ObjectProperty .
 :showsquant rdf:type owl:ObjectProperty .
+:fillout rdf:type owl:ObjectProperty .
+
 
 :uofk rdf:type owl:NamedIndividual ;
  :coveredby :ukinsurance ;
