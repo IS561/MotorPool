@@ -29,39 +29,99 @@
 #################################################################
 
 ###  http://is561.org/MotorPool#approvedby
-:approvedby rdf:type owl:ObjectProperty .
+:approvedby rdf:type owl:ObjectProperty ;
+            owl:inverseOf :approves .
 
 
-###  http://is561.org/MotorPool#coveredby
-:coveredby rdf:type owl:ObjectProperty .
+###  http://is561.org/MotorPool#approves
+:approves rdf:type owl:ObjectProperty .
+
+
+###  http://is561.org/MotorPool#designateddriver
+:designateddriver rdf:type owl:ObjectProperty ;
+                  owl:inverseOf :driverfor .
+
+
+###  http://is561.org/MotorPool#documentedby
+:documentedby rdf:type owl:ObjectProperty ;
+              owl:inverseOf :documents .
 
 
 ###  http://is561.org/MotorPool#documents
 :documents rdf:type owl:ObjectProperty .
 
 
-###  http://is561.org/MotorPool#employs
-:employs rdf:type owl:ObjectProperty .
+###  http://is561.org/MotorPool#drivenby
+:drivenby rdf:type owl:ObjectProperty ;
+          owl:inverseOf :drives .
 
 
-###  http://is561.org/MotorPool#files
-:files rdf:type owl:ObjectProperty .
+###  http://is561.org/MotorPool#driverfor
+:driverfor rdf:type owl:ObjectProperty .
+
+
+###  http://is561.org/MotorPool#drives
+:drives rdf:type owl:ObjectProperty .
+
+
+###  http://is561.org/MotorPool#droveinaccident
+:droveinaccident rdf:type owl:ObjectProperty ;
+                 owl:inverseOf :involvesdriver .
+
+
+###  http://is561.org/MotorPool#filledby
+:filledby rdf:type owl:ObjectProperty ;
+          owl:inverseOf :fillout .
 
 
 ###  http://is561.org/MotorPool#fillout
 :fillout rdf:type owl:ObjectProperty .
 
 
-###  http://is561.org/MotorPool#hastopic
-:hastopic rdf:type owl:ObjectProperty .
+###  http://is561.org/MotorPool#hastraveler
+:hastraveler rdf:type owl:ObjectProperty ;
+             owl:inverseOf :travelson .
+
+
+###  http://is561.org/MotorPool#included
+:included rdf:type owl:ObjectProperty ;
+          owl:inverseOf :occurredduring .
+
+
+###  http://is561.org/MotorPool#insuredfor
+:insuredfor rdf:type owl:ObjectProperty ;
+            owl:inverseOf :insuredon .
+
+
+###  http://is561.org/MotorPool#insuredon
+:insuredon rdf:type owl:ObjectProperty .
+
+
+###  http://is561.org/MotorPool#involvesdriver
+:involvesdriver rdf:type owl:ObjectProperty .
+
+
+###  http://is561.org/MotorPool#involvesvehicle
+:involvesvehicle rdf:type owl:ObjectProperty ;
+                 owl:inverseOf :vehicleinaccident .
 
 
 ###  http://is561.org/MotorPool#occurredduring
 :occurredduring rdf:type owl:ObjectProperty .
 
 
-###  http://is561.org/MotorPool#receivedby
-:receivedby rdf:type owl:ObjectProperty .
+###  http://is561.org/MotorPool#reportedby
+:reportedby rdf:type owl:ObjectProperty ;
+            owl:inverseOf :reports .
+
+
+###  http://is561.org/MotorPool#reports
+:reports rdf:type owl:ObjectProperty .
+
+
+###  http://is561.org/MotorPool#supervise
+:supervise rdf:type owl:ObjectProperty ;
+           owl:inverseOf :supervisedby .
 
 
 ###  http://is561.org/MotorPool#supervisedby
@@ -72,8 +132,17 @@
 :travelson rdf:type owl:ObjectProperty .
 
 
+###  http://is561.org/MotorPool#usedinactivity
+:usedinactivity rdf:type owl:ObjectProperty ;
+                owl:inverseOf :usesvehicle .
+
+
 ###  http://is561.org/MotorPool#usesvehicle
 :usesvehicle rdf:type owl:ObjectProperty .
+
+
+###  http://is561.org/MotorPool#vehicleinaccident
+:vehicleinaccident rdf:type owl:ObjectProperty .
 
 
 #################################################################
@@ -96,11 +165,6 @@
               :usesvehicle :vehicle1 .
 
 
-###  http://is561.org/MotorPool#claim1
-:claim1 rdf:type owl:NamedIndividual ;
-        :hastopic :accident1 .
-
-
 ###  http://is561.org/MotorPool#employeeA
 :employeeA rdf:type owl:NamedIndividual ;
            :fillout :mvrrelease1 ;
@@ -109,28 +173,11 @@
 
 
 ###  http://is561.org/MotorPool#mvrrelease1
-:mvrrelease1 rdf:type owl:NamedIndividual ;
-             :receivedby :ukriskman .
+:mvrrelease1 rdf:type owl:NamedIndividual .
 
 
 ###  http://is561.org/MotorPool#supervisorB
 :supervisorB rdf:type owl:NamedIndividual .
-
-
-###  http://is561.org/MotorPool#ukinsurance
-:ukinsurance rdf:type owl:NamedIndividual .
-
-
-###  http://is561.org/MotorPool#ukriskman
-:ukriskman rdf:type owl:NamedIndividual .
-
-
-###  http://is561.org/MotorPool#uofk
-:uofk rdf:type owl:NamedIndividual ;
-      :coveredby :ukinsurance ;
-      :employs :employeeA ,
-               :supervisorB ;
-      :files :claim1 .
 
 
 ###  http://is561.org/MotorPool#vehicle1
