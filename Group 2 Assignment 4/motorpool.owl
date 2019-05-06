@@ -139,10 +139,7 @@
 :involvesvehicle rdf:type owl:ObjectProperty ;
                  owl:inverseOf :vehicleinaccident ;
                  rdfs:domain :Accident ;
-                 rdfs:range :Vehicle ;
-                 owl:propertyChainAxiom ( :occurredduring
-                                          :usesvehicle
-                                        ) .
+                 rdfs:range :Vehicle .
 
 
 ###  http://is561.org/MotorPool#occurredduring
