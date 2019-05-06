@@ -17,8 +17,7 @@ Here are detailed commitments of each group member, where “Yes” means the gr
 
 | Work\Member | Harshitha Ravindra | Mihir Joshi | Qiyuan Xiao | Yifei Li | Yixin Zhang | Yunya Gu |
 | ----------- | ------------------ | ----------- | ----------- | -------- | ----------- | -------- | 
-| Review entity classes and relationships | Yes | Yes | Yes | Yes | Yes | Yes |
-| Revise entity classes and relationships |   |   |   | Yes |   |   |
+| Meeting | Yes | Yes | Yes | Yes | Yes | Yes |
 | Code |  |   |   | Yes |   |   |
 | Rationale and justification|   | Yes | | Yes | |   |
 | Summary and commitments|    |   |   |   | Yes |   | 
