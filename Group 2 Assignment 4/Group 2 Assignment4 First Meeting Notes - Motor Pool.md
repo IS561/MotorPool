@@ -1,4 +1,4 @@
-# Group 2 Assignment4 Second Meeting Notes - Motor Pool
+# Group 2 Assignment4 First Meeting Notes - Motor Pool
 Written by Qiyuan Xiao Meeting time: 26th April 2019, 11 AM – 12 PM
 
 ### Present:
