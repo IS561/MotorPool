@@ -1,4 +1,6 @@
 For this group assignment, we are required to use Protege to run the .owl file that professor provides to us and add more details to it to allow the reasoner to deduce the results stated in the assignment instruction. In this document, we will talk about the rational and justification of our group decisions, followed by our communication with the other two groups, finally the groupwork we have done for this assignment.
 ### Rationale and justification for group decisions ###
+Before working on the three questions that we are assigned to, we made some preparations. Firstly, we created seven classes, one for each individual. However, according to professor's instructions, we did not directly link individuals to their corresponding class, since the reasoner should do the work. Next, since professor Dubin has provided properties, their inverse properties and some relationships between individuals, we were able to use the information to deduce domain and codomain of most properties. Therefore, we added domains and codomains of the properties as well as their inverse properties to prepare for solving the questions.
+Our first task is to let the reasoner deduce that employeeA is the driverfor bizactivity1 since we assume that there's only one traveler who's driving.
 ### Communication with other groups ###
 ### Groupwork ###
