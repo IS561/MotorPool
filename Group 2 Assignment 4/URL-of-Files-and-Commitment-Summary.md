@@ -10,7 +10,7 @@ __Address links__ for all our work and summary of contributions of each group me
 - Our final version of commitments and summary (i.e. this file): https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/URL-of-Files-and-Commitment-Summary.md
 - Our meeting notes: 
 	- Note 1: 
-	- Note 2: https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/Group%202%20%20assignment4%20Second%20Meeting%20Notes 
+	- Note 2: https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=433583
 
 ## Detailed Commitments of Each Group Member
 Here are detailed commitments of each group member, where “Yes” means the group member has a contribution to the work:
