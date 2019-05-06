@@ -19,11 +19,8 @@ Here are detailed commitments of each group member, where “Yes” means the gr
 | ----------- | ------------------ | ----------- | ----------- | -------- | ----------- | -------- | 
 | Review entity classes and relationships | Yes | Yes | Yes | Yes | Yes | Yes |
 | Revise entity classes and relationships |   |   |   | Yes |   |   |
-| Drafts of two diagrams |   |   |   | Yes | Yes | Yes |
-| Schema level UML class diagram |   |   |   |   |   | Yes |
-| Instance level SVG diagram |   |   |   |   | Yes |   |
-| Rationale and justification|   | Yes | Yes | Yes | Yes |   |
+| Code |  |   |   | Yes |   |   |
+| Rationale and justification|   | Yes | | Yes | |   |
 | Summary and commitments|    |   |   |   | Yes |   | 
-| Consult TA |   |   |   | Yes | Yes | Yes |
-| Meeting notes |   |   |   | Yes | Yes | Yes |
-| Trello | Yes |   |   |   |   |   |
+| Consult TA | Yes | Yes | Yes | Yes |  |  |
+| Meeting notes |   |   | Yes | | | Yes |
