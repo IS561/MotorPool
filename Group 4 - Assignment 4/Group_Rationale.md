@@ -1,7 +1,7 @@
 ### Initial Analysis ###
 - Abhilasha
 
-### Rationale and Justification ###
+### Rationale and Justification (why you choose the class/property and how you map it to the Event Ontology)###
 #### Classes
 - Accident      -linxi
 - Employee      - linxi
