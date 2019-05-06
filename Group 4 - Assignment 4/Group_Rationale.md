@@ -1,7 +1,7 @@
-Rationale and Justification
+### Rationale and Justification ###
 
-Coordination with other groups
+### Coordination with other groups ###
 
-Any controversy/conflict which arose
+### Any controversy/conflict which arose ###
 
-Experience
+### Group Experience ### 
