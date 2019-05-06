@@ -10,5 +10,5 @@ After this, we wanted to relate this result to the property *driverfor*. We know
 **_owl:propertyChainAxiom( :drives :usedinactivity)_**  
 <img src="https://user-images.githubusercontent.com/46877258/57256244-b8e5b300-701b-11e9-9b49-d3eacf66936c.jpg" width="760" height="210">
    
-After running the reasoner, we were able to see both results that are required in our assignment task 1 and task 2. The lask task requires us to add a rule of inference so that employeeA *reports* accidentreport1 because it documents an accident involving him. 
+After running the reasoner, we were able to see both results that are required in our assignment task 1 and task 2. The last task requires us to add a rule of inference so that employeeA *reports* accidentreport1 because it documents an accident involving him. There are many relationships can be used 
 ### Communication with other groups ## 
