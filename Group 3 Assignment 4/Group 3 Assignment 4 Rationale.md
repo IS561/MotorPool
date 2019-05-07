@@ -1,4 +1,4 @@
-GROUP 3 RATIONALE AND JUSTIFICATION
+# GROUP 3 RATIONALE AND JUSTIFICATION
 Group Assignment 4 involved inference using owl. This was our task – 
 Group 3: When the reasoner is active for your file, we'll see that:
 •	bizactivity1 is insuredfor employeeA (because it's approved by A's supervisor)
