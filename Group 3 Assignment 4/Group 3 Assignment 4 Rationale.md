@@ -23,8 +23,9 @@ We revisited professor’s lecture videos to understand what link we were missin
 	
 	Property 2: Domain(B)  Codomain(C)
 	
-   ------> Property: Domain(A)  Codomain(C)
-   
+	------> Property: Domain(A)  Codomain(C)
+	
+      
 Having seen the videos, we got some idea on what to do, we first loaded the Motorpool3.owl file that professor provided on to the protégé tool. Then we could see that the object properties were populated, and the entities were not. We then populated the entities with all the relevant entities and then looked at the object properties, these were the relationships which needed domains and codomains to be associated to them as well as to their inverses. 
 
 We also realized as given in the assignment instructions that we cannot add new individuals or properties. Also we cannot not add edges to the instance graph ourselves, which means we can't add class identities to the individuals, although we can add named or anonymous classes to the schema, relate classes to each other, relate classes to properties (via domain and range assertions), and relate properties to each other. What we essentially realized is that we are supposed to add schema level information and let the Hermit make deductions at the instance level.
@@ -39,9 +40,9 @@ This was the chain axiom that we wrote to deduce the “insuredfor” relationsh
 
 ![rule 2](https://github.com/IS561/MotorPool/blob/master/Group%203%20Assignment%204/images/pic3.png)
 
-	Property 1 – approvedby : Business Activity(domain) 		Supervisor(codomain)
+	Property 1 – approvedby : Business Activity(domain) 	Supervisor(codomain)
 	
-	Property 2 – supervise :      Supervisor(domain)			Employee(codomain)
+	Property 2 – supervise :      Supervisor(domain)	Employee(codomain)
 	
      -------> Insuredfor : Business Activity (domain) 	Employee (codomain)
      
