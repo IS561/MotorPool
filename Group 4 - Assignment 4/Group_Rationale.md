@@ -38,11 +38,10 @@ Based on the classes in Event Model (Raimond Y. & Abdallah S., 2007), we set 'Bi
 
 #### Properties
 
-#### reportedby: Accident(Event):Employee(Agent)
-     Employee(Agent) - Relates to a Employee who is involved in an accident
-     Domain     - Accident
-     Range      - Employee
-     Inverse of - Accident:reports
+#### documentedby & documents: 
+
+Originally, we chose "reported" and "reportedby" to indicates the property between "Accident" and "AccidentReport", which conflict with Group2's decision because they are required to link "Employee" and "AccidentReport" with property "Report" and "ReportedBy". After our group posted the question on Moodel and get their reply, our group decided to change the proerpty between "Accident" and "AccidentReport" to "documents" and "documentedBy". Threfore, we solved the potential incompatibility that we original have. 
+
      
 #### involvesdriver: Accident(Event):Employee(Agent)
      Employee(Agent) - Relates to a Employee who is involved in an accident
