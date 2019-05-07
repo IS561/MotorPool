@@ -5,7 +5,6 @@ __Address links__ for all our work and summary of contributions of each group me
 ## Addresses of Our Work
 - Our main repository for this group assignment: https://github.com/IS561/MotorPool/tree/master/Group%202%20Assignment%204
 - Our OWL file: https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/motorpool.owl
-- Our revised version of entity classes and relationships: https://github.com/IS561/MotorPool/blob/master/Entity-Classes-and-Relationships.md
 - Our final version of rationale and justification: https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/Rationale.md
 - Our final version of commitments and summary (i.e. this file): https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/URL-of-Files-and-Commitment-Summary.md
 - Our meeting notes: 
