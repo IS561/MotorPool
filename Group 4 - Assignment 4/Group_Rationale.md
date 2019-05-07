@@ -30,7 +30,7 @@ Based on the classes in Event Model (Raimond Y. & Abdallah S., 2007), “Factor�
 - OccurredDuring          - Abhilasha
 
 
-### Coordination with other groups ### (Linxi)
+### Coordination with other groups (Linxi) ###
 
 To make sure that our definition of classes compatible to other groups’ definitions, we posted questions on Moodle and looked over other groups’ OWL files on Github to learn how they defined their classes and avoid conflict definitions. 
 **Communication with Group2**: we learned from their answer to our post that they did not define any subclasses and since they did not have a new UML so we checked their OWL file on Github to learn about class definitions. Since our group focus more on mapping the classes to the Event Ontology, we did not include as many properties between classes as Group2. For example, we did not have property between BizActivity (defined as Activity by Group 2) and Employee. However, for the common properties we have, such as “droveinaccident”, “involvesdriver” and “OccurredDuring”, our group and Group 2 did not conflict each other, the domain and range are consistent. We checked all other classes and properties in a similar way and did not find extreme difference. Therefore, we believe our definitions is compatible with Group 2’s. 
