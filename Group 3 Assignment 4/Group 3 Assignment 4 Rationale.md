@@ -1,3 +1,4 @@
+# Rationale
 For assignment 4, we worked together frequently to complete the task at hand. We
 met as a group 4 times to go through the prompt and try to understand what was
 being asked of us. Our group meet ups were both online and in person. We
