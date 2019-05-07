@@ -21,7 +21,8 @@ We set “AccidentReport” as the subclass to “Product” because based on Ev
 Based on the classes in Event Model (Raimond Y. & Abdallah S., 2007), “Factor”  is typically a thing that passively been used in an event. Among the classes defined by us, we think only “Vehicle” can be a factor in an “Accident”.  
 
 
-- BizActivity    -Aditya
+- BizActivity
+Based on the classes in Event Model (Raimond Y. & Abdallah S., 2007), we set 'BizActivity' as the subclass to "TemporalEntity/Time interval". TemporalEntitiy is something that is time based. During an accident, it is essential that the accident occured during BizAcitivity (time), thus time being a critical point here.
 
 #### Sub-event 
 
