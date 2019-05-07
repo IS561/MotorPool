@@ -8,7 +8,7 @@ __Address links__ for all our work and summary of contributions of each group me
 - Our final version of rationale and justification: https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/Rationale.md
 - Our final version of commitments and summary (i.e. this file): https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/URL-of-Files-and-Commitment-Summary.md
 - Our meeting notes: 
-	- Note 1: https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/Group%202%20Assignment4%20First%20Meeting%20Notes%20-%20Motor%20Pool.md
+	- Note 1: https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/Group%202%20Assignment%204%20First%20Meeting%20Notes%20-%20Motor%20Pool.md
 	- Note 2: https://github.com/IS561/MotorPool/blob/master/Group%202%20Assignment%204/Group%202%20Assignment%204%20Second%20Meeting%20Notes.md
 
 ## Detailed Commitments of Each Group Member
