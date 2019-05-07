@@ -49,7 +49,9 @@
 
 
 ###  http://is561.org/MotorPool#documents
-:documents rdf:type owl:ObjectProperty .
+:documents rdf:type owl:ObjectProperty ;
+           rdfs:domain :AccidentReport ;
+           rdfs:range :Accident .
 
 
 ###  http://is561.org/MotorPool#drivenby
@@ -149,12 +151,16 @@
 
 
 ###  http://is561.org/MotorPool#travelson
-:travelson rdf:type owl:ObjectProperty .
+:travelson rdf:type owl:ObjectProperty ;
+           rdfs:domain :Employee ;
+           rdfs:range :BizActivity .
 
 
 ###  http://is561.org/MotorPool#usedinactivity
 :usedinactivity rdf:type owl:ObjectProperty ;
-                owl:inverseOf :usesvehicle .
+                owl:inverseOf :usesvehicle ;
+                rdfs:domain :Vehicle ;
+                rdfs:range :BizActivity .
 
 
 ###  http://is561.org/MotorPool#usesvehicle
