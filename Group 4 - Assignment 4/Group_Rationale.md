@@ -1,4 +1,4 @@
-### Initial Analysis ### (Abhilasha)
+### Initial Analysis - (Abhilasha)
 
 At start we were a bit confused about what exactly our approach to the group exercise should be and struggled a bit. So, we considered all of the object properties given by the professor and drafted a UML based on that. Later, as we started discussing more we understood that we just have to work on the Event and not on the entire case scenario. After referring to the Event Ontology document and discussing with Professor we were aable understand about how our approach should be. After that we were a bit doubtful about what our Event sub-class should be and the sub-classes related to it. Our main debate was between Bizactivity and Accident but after having a long discussion we made a unanimous decision of considering Accident as the only sub-class to Event.
 
