@@ -22,6 +22,7 @@ Based on the classes in Event Model (Raimond Y. & Abdallah S., 2007), â€œFactorâ
 
 
 - BizActivity
+
 Based on the classes in Event Model (Raimond Y. & Abdallah S., 2007), we set 'BizActivity' as the subclass to "TemporalEntity/Time interval". TemporalEntitiy is something that is time based. During an accident, it is essential that the accident occured during BizAcitivity (time), thus time being a critical point here.
 
 #### Sub-event 
